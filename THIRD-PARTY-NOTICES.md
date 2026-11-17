@@ -1,6 +1,6 @@
 # Third-party notices
 
-Moth includes [Sparkle](https://sparkle-project.org) (auto-update framework). Its license follows.
+Mote includes [Sparkle](https://sparkle-project.org) (auto-update framework). Its license follows.
 
 ```text
 Copyright (c) 2006-2013 Andy Matuschak.
