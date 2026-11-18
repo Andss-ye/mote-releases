@@ -85,7 +85,7 @@ Found a bug or have an idea? [Open an issue](https://github.com/Andss-ye/mote-re
 
 ## Made by Andrew
 
-[X (@Andssye_)](https://x.com/Andssye_) · [LinkedIn](https://linkedin.com/in/andss-ye) · [Portfolio](https://andssye.vercel.app/) · [GitHub](https://github.com/Andss-ye)
+[LinkedIn](https://linkedin.com/in/andss-ye) · [Portfolio](https://andssye.vercel.app/) · [GitHub](https://github.com/Andss-ye)
 
 ## License
 
